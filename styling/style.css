@@ -476,7 +476,7 @@ form{
    margin-bottom: 1.5rem;
 }
 .testimonial-text{
-   font-size: 1rem;
+   font-size: 1.5rem;
    color: #555;
    margin-bottom: 4.5rem;
    line-height: 1.8;
@@ -514,6 +514,7 @@ form{
 }
 .card-header-txt h3{
    color: #1b1b1b;
+    font-size: 1.7rem;
 }
 .card-header-txt h4{
    color: #555;
@@ -522,6 +523,7 @@ form{
    margin: 1.5rem 0;
    color: #555;
    line-height: 1.8;
+    font-size: 1.4rem;
 }
 
 .rating{
@@ -566,11 +568,13 @@ form{
 .blog-card-txt h3{
    color: #333;
    margin-bottom: 1rem;
+   font-size: 1.5rem;
 }
 .blog-card-txt p{
    color: #555;
    margin-bottom: 1rem;
    line-height: 1.8;
+    font-size: 1.3rem;
 }
 .blog-btn{
    margin: .5rem;
@@ -599,6 +603,7 @@ form{
    grid-template-columns: repeat(auto-fit,minmax(10rem,1fr));
    gap: 3rem;
    padding-top: 2rem;
+     font-size: 1.4rem;
  }
  .footer-container .footer-box{
    width: 100%;
