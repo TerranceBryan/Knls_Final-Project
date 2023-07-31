@@ -87,7 +87,7 @@ nav .btn--big:hover{
 
  /* Hero (home) section start*/
  .hero{
-    background-image:linear-gradient(to right, rgba(255, 68, 0, 0.527),rgba(0, 0, 0, 0.842)), url("/images/background/background.jpg");
+    background-image:linear-gradient(to right, rgba(255, 68, 0, 0.527),rgba(0, 0, 0, 0.842)), url("https://github.com/TerranceBryan/Knls_Final-Project/images/background/background.jpg");
     min-height: 80vh;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -591,7 +591,7 @@ form{
 
  /* Footer section starts*/
  footer{
-   background-image:linear-gradient(to right, rgba(0, 0, 32, 0.568), rgba(0, 0, 32, 0.678)), url('/images/project_gallery/gallery2.jpg');
+   background-image:linear-gradient(to right, rgba(0, 0, 32, 0.568), rgba(0, 0, 32, 0.678)), url('https://github.com/TerranceBryan/Knls_Final-Project/images/project_gallery/gallery2.jpg');
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
