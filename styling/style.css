@@ -87,7 +87,7 @@ nav .btn--big:hover{
 
  /* Hero (home) section start*/
  .hero{
-    background-image:linear-gradient(to right, rgba(255, 68, 0, 0.527),rgba(0, 0, 0, 0.842)), url("../images/background/background.jpg");
+    background-image:linear-gradient(to right, rgba(255, 68, 0, 0.527),rgba(0, 0, 0, 0.842)), url("..\images\background\background.jpg");
     min-height: 80vh;
     background-repeat: no-repeat;
     background-attachment: scroll;
