@@ -87,7 +87,7 @@ nav .btn--big:hover{
 
  /* Hero (home) section start*/
  .hero{
-    background-image:linear-gradient(to right, rgba(255, 68, 0, 0.527),rgba(0, 0, 0, 0.842)), url("./images/background/background.jpg");
+    background-image:linear-gradient(to right, rgba(255, 68, 0, 0.527),rgba(0, 0, 0, 0.842)), url("../images/background/background.jpg");
     min-height: 80vh;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -372,7 +372,7 @@ form{
 .page-textbox{
    text-align: center;
    padding: 6rem;
-   background-image: linear-gradient(to right, #000020ea, #000020d3), url("/images/support_staff/employee_background.jpg");
+   background-image: linear-gradient(to right, #000020ea, #000020d3), url("../images/support_staff/employee_background.jpg");
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -465,7 +465,7 @@ form{
    padding: 5rem 3rem 10rem 3rem;
    background-size: cover;
    background-attachment: scroll;
-   background-image: linear-gradient(rgba(255, 253, 253, 0.507),rgba(255, 255, 255, 0.507)), url('/images/clients/client_background.jpg');
+   background-image: linear-gradient(rgba(255, 253, 253, 0.507),rgba(255, 255, 255, 0.507)), url('../images/clients/client_background.jpg');
 }
 .testimonial-textbox, .blog-container-textbox{
    text-align: center;
@@ -591,7 +591,7 @@ form{
 
  /* Footer section starts*/
  footer{
-   background-image:linear-gradient(to right, rgba(0, 0, 32, 0.568), rgba(0, 0, 32, 0.678)), url('https://github.com/TerranceBryan/Knls_Final-Project/images/project_gallery/gallery2.jpg');
+   background-image:linear-gradient(to right, rgba(0, 0, 32, 0.568), rgba(0, 0, 32, 0.678)), url('../images/project_gallery/gallery2.jpg');
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
